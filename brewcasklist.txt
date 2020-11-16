@@ -1,0 +1,6 @@
+adoptopenjdk8
+cheatsheet
+iterm2
+java
+joplin
+rar
